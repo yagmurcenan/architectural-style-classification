@@ -1,0 +1,146 @@
+{
+  "Achaemenid architecture": {
+    "description": "Ahameniş mimarisi, Pers İmparatorluğu döneminde gelişmiş; anıtsal sütunlar, teraslı saraylar ve taş işçiligiyle öne çıkan bir mimari anlayıştır.",
+    "pioneer": "Darius I"
+  },
+  "American craftsman style": {
+    "description": "El işçiliğini vurgulayan bu stil; alçak çatılar, ahşap detaylar ve doğal malzemelerle sıcak ve işlevsel yapılar sunar.",
+    "pioneer": "Gustav Stickley"
+  },
+  "American Foursquare architecture": {
+    "description": "Kare planlı, iki katlı ve geniş verandalarıyla bilinen; 20. yüzyıl başı Amerikan konut mimarisinin sade bir örneğidir.",
+    "pioneer": "Frank Lloyd Wright"
+  },
+  "Ancient Egyptian architecture": {
+    "description": "Antik Mısır mimarisi; piramitler, tapınaklar ve anıtsal mezar yapılarıyla tanrısallık ve ölümsüzlük kavramlarını yansıtır.",
+    "pioneer": "Imhotep"
+  },
+  "Architecture of Edo Period": {
+    "description": "Japon Edo dönemi mimarisi; ahşap yapılar, sürgülü kapılar ve doğayla uyumlu minimalist tasarımlarla karakterizedir.",
+    "pioneer": "Sen no Rikyū"
+  },
+  "Architecture of the Joseon Dynasty": {
+    "description": "Joseon mimarisi; Konfüçyüs etkisiyle sade, simetrik ve doğayla uyumlu saray ve konut yapıları sunar.",
+    "pioneer": "Jeong Do-jeon"
+  },
+  "Architecture of the Qing Dynasty": {
+    "description": "Qing Hanedanlığı mimarisi; Çin geleneksel mimarisini süslemeci detaylar ve renkli çatılarla zenginleştirir.",
+    "pioneer": "Lei family architects"
+  },
+  "Art Deco architecture": {
+    "description": "Art Deco, geometrik formlar, simetri ve modern malzemelerle 1920–1930’ların ilerlemeci ruhunu yansıtır.",
+    "pioneer": "William Van Alen"
+  },
+  "Art Nouveau architecture": {
+    "description": "Organik çizgiler, bitkisel motifler ve akışkan formlarla doğadan ilham alan süslemeci bir mimari akımdır.",
+    "pioneer": "Victor Horta"
+  },
+  "Baroque architecture": {
+    "description": "Barok mimari; dramatik ışık kullanımı, hareketli formlar ve zengin süslemelerle görkemli yapılar oluşturur.",
+    "pioneer": "Gian Lorenzo Bernini"
+  },
+  "Bauhaus architecture": {
+    "description": "Bauhaus, işlevselliği ön planda tutan; süslemeden arındırılmış, modern ve endüstriyel bir mimari anlayıştır.",
+    "pioneer": "Walter Gropius"
+  },
+  "Beaux-Arts architecture": {
+    "description": "Klasik Yunan ve Roma etkilerini simetri, ihtişam ve akademik kurallarla birleştiren bir mimari stildir.",
+    "pioneer": "Charles Garnier"
+  },
+  "Brutalist architecture": {
+    "description": "Ham beton yüzeyler, sert geometriler ve işlev odaklı tasarımlarla tanınan güçlü bir modernist akımdır.",
+    "pioneer": "Le Corbusier"
+  },
+  "Byzantine architecture": {
+    "description": "Bizans mimarisi; büyük kubbeler, mozaikler ve merkezi planlı kiliselerle dini ihtişamı vurgular.",
+    "pioneer": "Anthemius of Tralles"
+  },
+  "Chicago school architecture": {
+    "description": "Gökdelen mimarisinin öncüsü olan bu stil; çelik iskelet sistemleri ve büyük pencerelerle tanınır.",
+    "pioneer": "Louis Sullivan"
+  },
+  "Colonial architecture": {
+    "description": "Avrupa kolonyal etkilerini yansıtan; simetrik cepheler ve yerel malzemelerle uyarlanmış yapılardan oluşur.",
+    "pioneer": "Sir Christopher Wren"
+  },
+  "Deconstructivism": {
+    "description": "Parçalanmış formlar, asimetri ve alışılmadık geometrilerle geleneksel mimari düzeni sorgulayan bir akımdır.",
+    "pioneer": "Frank Gehry"
+  },
+  "Edwardian architecture": {
+    "description": "Edward dönemi mimarisi; Viktorya süslemelerinin sadeleştiği, daha ferah ve aydınlık yapılar sunar.",
+    "pioneer": "Edwin Lutyens"
+  },
+  "Georgian architecture": {
+    "description": "Oran, simetri ve klasik detaylara dayalı; 18. yüzyıl İngiliz mimarisinin temel stilidir.",
+    "pioneer": "James Gibbs"
+  },
+  "Gothic architecture": {
+    "description": "Gotik mimari; sivri kemerler, uçan payandalar ve vitray pencerelerle yükselme duygusu yaratır.",
+    "pioneer": "Abbot Suger"
+  },
+  "Greek Revival architecture": {
+    "description": "Antik Yunan tapınaklarından esinlenen; sütunlar ve üçgen alınlıklarla klasik bir görünüm sunar.",
+    "pioneer": "Karl Friedrich Schinkel"
+  },
+  "International style": {
+    "description": "Süslemeden arınmış, cam ve çelik ağırlıklı; evrensel ve modern bir mimari dildir.",
+    "pioneer": "Ludwig Mies van der Rohe"
+  },
+  "Khmer architecture": {
+    "description": "Khmer mimarisi; tapınak kompleksleri, taş oyma detaylar ve kozmik sembolizmle öne çıkar.",
+    "pioneer": "Jayavarman VII"
+  },
+  "Maya architecture": {
+    "description": "Maya mimarisi; piramitler, tapınaklar ve astronomik hizalamalarla dini ve bilimsel işlevleri birleştirir.",
+    "pioneer": "Pacal the Great"
+  },
+  "Minangkabau architecture": {
+    "description": "Endonezya kökenli bu mimari; yukarı kıvrılan çatıları ve ahşap yapılarıyla kültürel kimliği yansıtır.",
+    "pioneer": "Traditional Minangkabau masters"
+  },
+  "Moorish architecture": {
+    "description": "İslam ve Endülüs etkilerini taşıyan; kemerler, avlular ve geometrik süslemelerle tanınır.",
+    "pioneer": "Abd al-Rahman I"
+  },
+  "Mughal architecture": {
+    "description": "Babür mimarisi; simetri, kubbeler ve süslemeli cephelerle İslam ve Hint mimarisini birleştirir.",
+    "pioneer": "Ustad Ahmad Lahori"
+  },
+  "Novelty architecture": {
+    "description": "Alışılmadık biçimlere sahip; dikkat çekmek amacıyla tasarlanmış eğlenceli ve sıra dışı yapılardır.",
+    "pioneer": "Lucy Sparrow"
+  },
+  "Ottoman architecture": {
+    "description": "Osmanlı mimarisi, Bizans ve İslam mimarisinin senteziyle oluşmuş; büyük kubbeler ve merkezi planlarla karakterizedir.",
+    "pioneer": "Mimar Sinan"
+  },
+  "Palladian architecture": {
+    "description": "Antik Roma mimarisinden esinlenen; simetri, oran ve tapınak cepheli yapılarla tanınır.",
+    "pioneer": "Andrea Palladio"
+  },
+  "Postmodern architecture": {
+    "description": "Modernizme tepki olarak ortaya çıkan; tarihsel referanslar ve ironi içeren bir mimari akımdır.",
+    "pioneer": "Robert Venturi"
+  },
+  "Queen Anne architecture": {
+    "description": "Asimetrik cepheler, kuleler ve süslemeli detaylarla zenginleştirilmiş konut mimarisidir.",
+    "pioneer": "Richard Norman Shaw"
+  },
+  "Romanesque architecture": {
+    "description": "Kalın duvarlar, yuvarlak kemerler ve masif yapılarla Orta Çağ’ın erken dönem mimarisini temsil eder.",
+    "pioneer": "Abbot Bernward of Hildesheim"
+  },
+  "Russian Revival architecture": {
+    "description": "Geleneksel Rus mimarisini yeniden canlandıran; renkli kubbeler ve folklorik detaylar içerir.",
+    "pioneer": "Konstantin Thon"
+  },
+  "Safavid architecture": {
+    "description": "Safevi mimarisi; büyük meydanlar, çiniler ve anıtsal camilerle Pers-İslam estetiğini yansıtır.",
+    "pioneer": "Sheikh Bahai"
+  },
+  "Tudor Revival architecture": {
+    "description": "Orta Çağ İngiliz Tudor stilini yeniden yorumlayan; ahşap karkas ve eğimli çatılarla bilinir.",
+    "pioneer": "Norman Shaw"
+  }
+}
