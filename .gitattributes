@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Python dosyalarını tanımla
+*.py linguist-language=Python
+
+# HTML, CSS, JS dosyalarını tanımla
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+
+# Otomatik satır sonu düzeltmesi
 * text=auto
