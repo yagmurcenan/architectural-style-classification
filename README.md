@@ -1,13 +1,71 @@
-#  Mimari Stil Sınıflandırma (Web & Mobil Uyumlu)
+# 🏛️ Architectural Style Classification
 
-Bu proje, **mobil ve web tarayıcılarından çalışabilen** bir mimari stil sınıflandırma uygulamasıdır. Kullanıcı bir resim yükler, model şu bilgileri verir:  
-- Resmin tahmin edilen mimari stili  
-- Tahminin doğruluk oranı  
-- Stil öncüsü 
-- Stil açıklaması  
+Mimari görselleri analiz ederek **36 farklı mimari stilden** hangisine ait olduğunu tahmin eden, web ve mobil cihazlarla uyumlu bir **derin öğrenme uygulamasıdır**.
 
-## Öne Çıkanlar
-- **36 farklı mimari stil** sınıflandırılır.  
-- **F1-score ve Cohen Kappa:** Yaklaşık %90 çıkmıştır.  
-- **Mobil uyumlu web arayüzü:** Streamlit veya benzeri framework ile kolay kullanım.  
-- **Görselli tahmin:** Stil bilgisi ve açıklaması anında gösterilir.  
+Uygulamada **EfficientNetB0** tabanlı görüntü sınıflandırma modeli kullanılmıştır. Kullanıcı bir mimari görsel yüklediğinde model, tahmin edilen stili ve güven skorunu belirler. Ayrıca ilgili mimari stilin öncüsü ve stil hakkında açıklayıcı bilgiler sunulur.
+
+## ✨ Features
+
+- 🏛️ **36 farklı mimari stilin** sınıflandırılması
+- 🧠 **EfficientNetB0** tabanlı görüntü sınıflandırma
+- 🖼️ Görsel yükleyerek otomatik tahmin
+- 🎯 Tahmin güven skorunun gösterilmesi
+- 👤 Stil öncüsü ve stil açıklamasının sunulması
+- 📱 Web ve mobil uyumlu arayüz
+- 📊 F1-Score ve Cohen's Kappa ile model değerlendirmesi
+
+## 🧠 Model
+
+Model, **EfficientNetB0** mimarisi kullanılarak 36 farklı mimari stil üzerinde eğitilmiş ve test edilmiştir.
+
+Tahmin sonucunda kullanıcıya:
+
+- 🏛️ Mimari stil
+- 🎯 Güven skoru
+- 👤 Stil öncüsü
+- 📖 Stil açıklaması
+
+sunulmaktadır.
+
+## 🔄 Application Workflow
+
+```text
+Architectural Image
+        │
+        ▼
+Image Preprocessing
+        │
+        ▼
+EfficientNetB0
+        │
+        ▼
+Style Prediction
+        │
+        ├── Style
+        ├── Confidence Score
+        ├── Style Pioneer
+        └── Description
+        │
+        ▼
+Web / Mobile Interface
+
+## 📊 Model Performance
+
+| Metric | Score |
+|---|---:|
+| **F1-Score** | ~90% |
+| **Cohen's Kappa** | ~90% |
+
+## 🛠️ Technologies
+
+- Python
+- TensorFlow / Keras
+- EfficientNetB0
+- Deep Learning
+- Computer Vision
+- Image Classification
+- Streamlit
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
